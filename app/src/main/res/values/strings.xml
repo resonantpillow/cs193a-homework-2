@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="title">To-Do List</string>
+    <string name="instructions">Long press to remove an item.</string>
+    <string name="enterTextHint">Enter a new to-do item here</string>
+    <string name="enterButtonText">Add</string>
+</resources>
